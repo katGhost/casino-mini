@@ -70,7 +70,7 @@ As aforementioned, the reels outcome is random.Using a List to create symbols th
 Run these commads, in this order.
 
 ```bash
-git clone https://github.com/casino-mini.git
+git clone https://github.com/katGhost/casino-mini.git
 ```
 
 then
